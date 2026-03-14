@@ -1,6 +1,9 @@
 Smart-Attend Mobile App
+
 SDLC & DevOps Fundamentals Assignment
+
 Project Overview:
+
 Smart-Attend is a mobile application designed to automatically record student attendance when they enter a classroom. The system uses Geo-fencing to detect when a student is within the classroom boundary and marks attendance automatically.
 
 During development, a new requirement was introduced by the university administration: Biometric (Face ID) verification must be added to prevent proxy attendance.
